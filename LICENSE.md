@@ -1,5 +1,3 @@
-Copyright (c) 2022 Robert Boyd III
-
 Permission to use, copy, modify, and/or distribute this software for any
 purpose with or without fee is hereby granted.
 
