@@ -1,0 +1,7 @@
+name = "crumblbot3"
+main = "src/index.ts"
+compatibility_date = "2022-08-04"
+node_compat = true
+services = [
+  { binding = "crumbl-api", service = "crumbl-api", environment = "production" }
+]
